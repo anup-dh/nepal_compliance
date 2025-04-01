@@ -26,13 +26,12 @@ app_license = "GNU General Public License (v3)"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/nepal_compliance/css/nepal_compliance.css"
-app_include_css = ["/assets/nepal_compliance/css/calendar.css",
-                   "/assets/nepal_compliance/css/doctype.css"]
+app_include_css = "/assets/nepal_compliance/css/calendar.css"
+app_include_css = "/assets/nepal_compliance/css/doctype.css"
 # app_include_js = "/assets/nepal_compliance/js/nepal_compliance.js"
-app_include_js = [
-                 "/assets/nepal_compliance/js/bs_module.js",
-                 "/assets/nepal_compliance/js/report_filter.js",
-                 ]
+app_include_js = "/assets/nepal_compliance/js/bs_module.js"
+app_include_js = "/assets/nepal_compliance/js/report_filter.js"
+              
 
 # include js, css files in header of web template
 # web_include_css = "/assets/nepal_compliance/css/nepal_compliance.css"
